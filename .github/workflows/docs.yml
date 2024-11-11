@@ -19,7 +19,7 @@ jobs:
       run: pip install -r ./docs/requirements.txt
 
     - name: create slides and PDF
-    run: |
+      run: |
         jupyter nbconvert --to slides --embed-images --template reveal --output-dir docs/source/_static "notebooks/*.ipynb"
         jupyter nbconvert --to pdf --output-dir docs/source/_static "notebooks/*.pdf"
 
