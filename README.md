@@ -11,7 +11,7 @@ We strongly recomment using the notebooks and slides in the provided binder envi
 ## Lectures
 
 | lecture no. | notebooks | interactive slides | static slides | PDF |
-| :---------: | :-------: | :----------------: | :-----------: | :--: |
+| :---------: | :-------: | :----------------: | :-----------: | :---: |
 | 1 | [![Lecture 1][badge-binder-lecture]][binder-jupyterlab-lecture1] | [![Lecture 1][badge-binder-lecture]][binder-jupyternb-lecture1] | [![Lecture 1][badge-pages-lecture]][pages-lecture1] | [![Lecture 1 PDF][badge-pdf-lecture]][pdf-lecture1] |
 | 2 | [![Lecture 2][badge-binder-lecture]][binder-jupyterlab-lecture2] | [![Lecture 2][badge-binder-lecture]][binder-jupyternb-lecture2] | [![Lecture 2][badge-pages-lecture]][pages-lecture2] | [![Lecture 2 PDF][badge-pdf-lecture]][pdf-lecture2] |
 | 3 | [![Lecture 3][badge-binder-lecture]][binder-jupyterlab-lecture3] | [![Lecture 3][badge-binder-lecture]][binder-jupyternb-lecture3] | [![Lecture 3][badge-pages-lecture]][pages-lecture3] | [![Lecture 3 PDF][badge-pdf-lecture]][pdf-lecture3] |
